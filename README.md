@@ -18,7 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```x = input()
+```
+x = input()
 y = input()
 temp = x
 x = y
