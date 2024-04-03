@@ -26,7 +26,9 @@ x = y
 y = temp
 print('Swapped values are:',x,y)
 ```
+## OUTPUT
 
+huhyu7h8uhji8uh
 
 
 ## RESULT:
