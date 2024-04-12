@@ -25,10 +25,12 @@ temp = x
 x = y
 y = temp
 print('Swapped values are:',x,y)
+#name:Tom francies xaviour
+#reg no:212223110060
 ```
 ## OUTPUT
+![alt text](<Screenshot 2024-04-12 131724.png>)
 
-huhyu7h8uhji8uh
 
 
 ## RESULT:
